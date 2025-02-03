@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christianabusca&show_icons=true&locale=en" alt="christianabusca" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christianabusca&theme=dark" alt="christianabusca" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=christianabusca&theme=dark" alt="christianabusca" /></p>
