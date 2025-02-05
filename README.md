@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/christianabusca/christianabusca/blob/main/mema.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Christian Abusca</h1>
-<h3 align="center">Has a Passion on Data and Software from Philippines</h3>
+<h3 align="center">Passionate about Data and Software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christianabusca&label=Profile%20views&color=0e75b6&style=flat" alt="christianabusca" /> </p>
 
