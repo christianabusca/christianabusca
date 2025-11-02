@@ -1,5 +1,3 @@
-![MasterHead](https://github.com/christianabusca/christianabusca/blob/main/mema.gif?raw=true)
-
 <h1 align="center">Hi 👋, I'm Christian Abusca</h1>
 <h3 align="center">Data Enthusiast | Software Developer | Problem Solver</h3>
 <p align="center">Transforming data into insights and ideas into scalable solutions</p>
