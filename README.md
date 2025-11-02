@@ -94,12 +94,32 @@ I'm a passionate developer with a strong foundation in **data science** and **fu
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christianabusca&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="christianabusca" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christianabusca&theme=tokyonight" alt="christianabusca" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=christianabusca&theme=tokyonight" alt="christianabusca" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christianabusca&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="christianabusca" />
 </p>
+
+### 📅 2025 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianabusca&theme=tokyo-night&hide_border=true&area=true" alt="christianabusca" />
+</p>
+
+<details>
+<summary>📈 More Stats</summary>
+<br>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christianabusca&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=christianabusca&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=christianabusca&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christianabusca&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=christianabusca&theme=tokyonight)
+
+</details>
 
 ---
 
