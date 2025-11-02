@@ -1,5 +1,3 @@
-![MasterHead](https://github.com/christianabusca/christianabusca/blob/main/mema.gif?raw=true)
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 </div>
