@@ -104,20 +104,32 @@ I'm a passionate developer with a strong foundation in **data science** and **fu
 ### 📅 2025 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianabusca&theme=tokyo-night&hide_border=true&area=true" alt="christianabusca" />
+  <img src="https://ghchart.rshah.org/0e75b6/christianabusca" alt="2025 Contributions" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianabusca&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+### 🏆 This Year's Achievements
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christianabusca&theme=tokyonight" alt="Contribution Details" />
 </p>
 
 <details>
-<summary>📈 More Stats</summary>
+<summary>📈 More 2025 Stats</summary>
 <br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christianabusca&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=christianabusca&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=christianabusca&theme=tokyonight" alt="Most Commit Language" />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=christianabusca&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=christianabusca&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christianabusca&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=christianabusca&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christianabusca&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=christianabusca&theme=tokyonight" alt="Productive Time" />
+</p>
 
 </details>
 
