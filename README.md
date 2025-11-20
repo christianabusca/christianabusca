@@ -107,31 +107,25 @@ I'm a passionate developer with a strong foundation in **data science** and **fu
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christianabusca&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" alt="christianabusca" />
+  <img src="https://github-readme-stats.vercel.app/api?username=christianabusca&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true&hide_border=true" alt="christianabusca" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christianabusca&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="christianabusca" />
+  <img src="https://streak-stats.demolab.com/?user=christianabusca&theme=tokyonight&hide_border=true" alt="christianabusca" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christianabusca&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true&cache_seconds=1800" alt="christianabusca" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christianabusca&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="christianabusca" />
 </p>
 
-### 📅 2025 Contribution Activity
+### 📅 Contribution Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/christianabusca" alt="2025 Contributions" />
+  <img src="https://ghchart.rshah.org/0e75b6/christianabusca" alt="Contribution Calendar" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianabusca&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=christianabusca&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
 <details>
@@ -139,17 +133,17 @@ I'm a passionate developer with a strong foundation in **data science** and **fu
 <br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christianabusca&theme=tokyonight" alt="Contribution Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christianabusca&theme=tokyonight" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=christianabusca&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=christianabusca&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=christianabusca&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=christianabusca&theme=tokyonight" alt="Top Languages by Commit" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christianabusca&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=christianabusca&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christianabusca&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=christianabusca&theme=tokyonight&utcOffset=8" alt="Commit Time Distribution" />
 </p>
 
 </details>
