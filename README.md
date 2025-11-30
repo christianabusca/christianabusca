@@ -64,7 +64,7 @@ Business intelligence analysis of the classic Northwind database
 - Product profitability insights
 - Supply chain optimization
 
-**Tech Stack:** `Python` `SQL` `Pandas` `Matplotlib` `Power BI`
+**Tech Stack:** `PostgreSQ`
 
 </td>
 <td width="50%">
@@ -76,7 +76,7 @@ Statistical analysis of weather patterns using NumPy
 - Seasonal pattern detection
 - Climate anomaly identification
 
-**Tech Stack:** `Python` `NumPy` `SciPy` `Matplotlib`
+**Tech Stack:** `Python` `NumPy` 
 
 </td>
 </tr>
@@ -91,7 +91,7 @@ Comprehensive e-commerce data analysis and insights
 - Product recommendation systems
 - Marketing effectiveness metrics
 
-**Tech Stack:** `Python` `Pandas` `Seaborn` `Jupyter`
+**Tech Stack:** `Python` `Pandas`
 
 </td>
 <td width="50%">
@@ -103,7 +103,7 @@ Interactive dashboard tracking COVID-19 pandemic trends
 - Predictive modeling
 - Public health insights
 
-**Tech Stack:** `Python` `Plotly` `Dash` `Pandas`
+**Tech Stack:** `Python` `Matplotlib`
 
 </td>
 </tr>
@@ -118,7 +118,7 @@ Real estate market analysis and price prediction
 - Price prediction modeling
 - Location-based insights
 
-**Tech Stack:** `Python` `Scikit-learn` `Pandas` `Seaborn`
+**Tech Stack:** `Python` `Numpy` `Matplotlib` `Pandas` `Seaborn`
 
 </td>
 <td width="50%">
@@ -130,7 +130,7 @@ Environmental data analysis focusing on energy and climate
 - Climate change indicators
 - Sustainability metrics
 
-**Tech Stack:** `Python` `Pandas` `NumPy` `Matplotlib`
+**Tech Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
 
 </td>
 </tr>
