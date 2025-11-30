@@ -23,13 +23,118 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer with a strong foundation in **data science** and **full-stack development**. Currently diving deep into data fundamentals and building projects that bridge the gap between data analytics and software engineering.
+I'm a passionate developer with a strong foundation in **data science** and **full-stack development**. Currently on an intensive journey through **Neural Ascension** - my structured self-learning path - while building real-world data analytics projects that showcase practical skills and industry-relevant insights.
 
-- 🔭 **Currently Working On:** Expanding my data science portfolio with real-world projects
-- 🌱 **Learning Journey:** Advanced data engineering, cloud architecture, and ML deployment
+- 🧠 **Learning Path:** [Neural Ascension](https://github.com/christianabusca/neural-ascension) - A comprehensive data science and AI learning roadmap
+- 🔭 **Current Projects:** Building 5 data analytics projects spanning business intelligence, weather analysis, e-commerce, public health, and market research
+- 🌱 **Deepening Expertise In:** Advanced data engineering, cloud architecture, ML deployment, and production-grade analytics
 - 💡 **Interests:** IoT systems, data visualization, automation, and scalable web applications
-- 🎯 **2025 Goals:** Contribute to open-source projects and build impactful data solutions
+- 🎯 **2025 Goals:** Complete Neural Ascension curriculum, contribute to open-source projects, and build impactful data solutions
 - ⚡ **Fun Fact:** I'm an introvert who speaks fluently in Python and SQL!
+
+---
+
+## 🎓 Current Learning Journey: Neural Ascension
+
+**[Neural Ascension](https://github.com/christianabusca/neural-ascension)** is my structured, self-directed learning path focused on mastering data science fundamentals, machine learning, and AI technologies. This roadmap includes comprehensive modules covering:
+
+- Data manipulation and analysis with Python
+- Statistical modeling and hypothesis testing
+- Machine learning algorithms and implementation
+- Deep learning and neural networks
+- Data engineering and pipeline development
+- Real-world project applications
+
+*Follow my progress and learning materials in the repository!*
+
+---
+
+## 📁 Featured Projects Portfolio
+
+### 🔥 Active Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 📊 [Northwind Analytics](https://github.com/christianabusca/northwind-analytics)
+Business intelligence analysis of the classic Northwind database
+- Sales performance analysis
+- Customer segmentation
+- Product profitability insights
+- Supply chain optimization
+
+**Tech Stack:** `Python` `SQL` `Pandas` `Matplotlib` `Power BI`
+
+</td>
+<td width="50%">
+
+#### 🌦️ [NumPy Weather Analytics](https://github.com/christianabusca/numpy-weather-analytics)
+Statistical analysis of weather patterns using NumPy
+- Temperature trend analysis
+- Precipitation forecasting
+- Seasonal pattern detection
+- Climate anomaly identification
+
+**Tech Stack:** `Python` `NumPy` `SciPy` `Matplotlib`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🛒 [Pandas E-commerce Analytics](https://github.com/christianabusca/pandas-ecommerce-analytics)
+Comprehensive e-commerce data analysis and insights
+- Customer behavior analysis
+- Sales trend forecasting
+- Product recommendation systems
+- Marketing effectiveness metrics
+
+**Tech Stack:** `Python` `Pandas` `Seaborn` `Jupyter`
+
+</td>
+<td width="50%">
+
+#### 🦠 [COVID-19 Trends Dashboard](https://github.com/christianabusca/covid-trends-dashboard)
+Interactive dashboard tracking COVID-19 pandemic trends
+- Real-time data visualization
+- Geographic spread analysis
+- Predictive modeling
+- Public health insights
+
+**Tech Stack:** `Python` `Plotly` `Dash` `Pandas`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🏘️ [Housing Market Analytics](https://github.com/christianabusca/housing-market-analytics)
+Real estate market analysis and price prediction
+- Housing price trend analysis
+- Market segmentation
+- Price prediction modeling
+- Location-based insights
+
+**Tech Stack:** `Python` `Scikit-learn` `Pandas` `Seaborn`
+
+</td>
+<td width="50%">
+
+#### ⚡ [Energy & Climate Analysis](https://github.com/christianabusca/energy-climate-analysis)
+Environmental data analysis focusing on energy and climate
+- Energy consumption patterns
+- Carbon footprint analysis
+- Climate change indicators
+- Sustainability metrics
+
+**Tech Stack:** `Python` `Pandas` `NumPy` `Matplotlib`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -164,7 +269,7 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 ---
 
 <p align="center">
-  <i>"Data is the new oil, but insights are the refined fuel that powers innovation."</i>
+  <i>"The journey from data to wisdom is paved with curiosity, persistence, and continuous learning."</i>
 </p>
 
 <p align="center">
