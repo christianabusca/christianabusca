@@ -64,7 +64,7 @@ Business intelligence analysis of the classic Northwind database
 - Product profitability insights
 - Supply chain optimization
 
-**Tech Stack:** `PostgreSQ`
+**Tech Stack:** `PostgreSQL`
 
 </td>
 <td width="50%">
