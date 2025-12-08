@@ -23,29 +23,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer with a strong foundation in **data science** and **full-stack development**. Currently on an intensive journey through **Neural Ascension** - my structured self-learning path - while building real-world data analytics projects that showcase practical skills and industry-relevant insights.
+I'm a passionate developer with a strong foundation in **data science** and **full-stack development**. Currently on an intensive self-learning journey, building real-world data analytics projects that showcase practical skills and industry-relevant insights.
 
-- 🧠 **Learning Path:** [Neural Ascension](https://github.com/christianabusca/neural-ascension) - A comprehensive data science and AI learning roadmap
-- 🔭 **Current Projects:** Building 5 data analytics projects spanning business intelligence, weather analysis, e-commerce, public health, and market research
+- 🧠 **Learning Journey:** Following a comprehensive data science and AI learning roadmap
+- 🔭 **Current Projects:** Building 6 data analytics projects spanning business intelligence, weather analysis, e-commerce, public health, market research, and environmental data
 - 🌱 **Deepening Expertise In:** Advanced data engineering, cloud architecture, ML deployment, and production-grade analytics
 - 💡 **Interests:** IoT systems, data visualization, automation, and scalable web applications
-- 🎯 **2025 Goals:** Complete Neural Ascension curriculum, contribute to open-source projects, and build impactful data solutions
+- 🎯 **2025 Goals:** Master advanced data science techniques, contribute to open-source projects, and build impactful data solutions
 - ⚡ **Fun Fact:** I'm an introvert who speaks fluently in Python and SQL!
-
----
-
-## 🎓 Current Learning Journey: Neural Ascension
-
-**[Neural Ascension](https://github.com/christianabusca/neural-ascension)** is my structured, self-directed learning path focused on mastering data science fundamentals, machine learning, and AI technologies. This roadmap includes comprehensive modules covering:
-
-- Data manipulation and analysis with Python
-- Statistical modeling and hypothesis testing
-- Machine learning algorithms and implementation
-- Deep learning and neural networks
-- Data engineering and pipeline development
-- Real-world project applications
-
-*Follow my progress and learning materials in the repository!*
 
 ---
 
@@ -118,7 +103,7 @@ Real estate market analysis and price prediction
 - Price prediction modeling
 - Location-based insights
 
-**Tech Stack:** `Python` `Numpy` `Matplotlib` `Pandas` `Seaborn`
+**Tech Stack:** `Python` `NumPy` `Matplotlib` `Pandas` `Seaborn`
 
 </td>
 <td width="50%">
@@ -212,15 +197,15 @@ Environmental data analysis focusing on energy and climate
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christianabusca&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true&hide_border=true" alt="christianabusca" />
+  <img src="https://github-readme-stats.vercel.app/api?username=christianabusca&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true&hide_border=true&card_width=495" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=christianabusca&theme=tokyonight&hide_border=true" alt="christianabusca" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christianabusca&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christianabusca&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="christianabusca" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christianabusca&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true&card_width=445" alt="Top Languages" />
 </p>
 
 ### 📅 Contribution Activity
@@ -228,30 +213,6 @@ Environmental data analysis focusing on energy and climate
 <p align="center">
   <img src="https://ghchart.rshah.org/0e75b6/christianabusca" alt="Contribution Calendar" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianabusca&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-<details>
-<summary>📈 More GitHub Stats</summary>
-<br>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christianabusca&theme=tokyonight" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=christianabusca&theme=tokyonight" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=christianabusca&theme=tokyonight" alt="Top Languages by Commit" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christianabusca&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=christianabusca&theme=tokyonight&utcOffset=8" alt="Commit Time Distribution" />
-</p>
-
-</details>
 
 ---
 
