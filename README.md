@@ -197,15 +197,11 @@ Environmental data analysis focusing on energy and climate
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christianabusca&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true&hide_border=true&card_width=495" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=christianabusca&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=christianabusca&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christianabusca&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christianabusca&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true&card_width=445" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianabusca&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ### 📅 Contribution Activity
