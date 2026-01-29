@@ -29,8 +29,8 @@ class Developer:
     def __init__(self):
         self.name = "Christian Abusca"
         self.role = "Data Enthusiast & Software Developer"
-        self.languages = ["Python", "SQL", "JavaScript"]
-        self.current_focus = "Building impactful data solutions"
+        self.languages = ["Python", "SQL"]
+        self.current_focus = "Learning Phase"
         self.traits = ["Analytical", "Detail-oriented", "Persistent"]
         self.personality = "Introvert who speaks fluent code"
         
@@ -43,7 +43,7 @@ class Developer:
 
 ### 🎯 What I'm Up To
 - 🔬 **Learning:** Mastering data science fundamentals and advanced techniques
-- 🎯 **Building:** 6 analytics projects (Business Intel, Weather, E-commerce, Health, Market Research, Environmental)
+- 🎯 **Building:** Analytical Projects
 - 🌱 **Growing:** Deep diving into ML deployment, cloud architecture, and production systems
 - 🦾 **Exploring:** IoT systems, data visualization, automation, scalable applications
 - 🏆 **Goal:** Contribute to open-source, master AI/ML, create meaningful impact
@@ -63,7 +63,7 @@ Code Quality        ████████████████████
 Data Analysis       ███████████████████░░░   85%
 Learning Speed      ██████████████████░░░░   80%
 Persistence         ████████████████████░░   95%
-Coffee Dependency   ████████████████████░░   95%
+Coke Dependency     ████████████████████░░   95%
 ```
 
 </div>
