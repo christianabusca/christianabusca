@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=200&section=header&text=⚡%20PROTOCOL%20INITIATED%20⚡&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Christian%20Abusca's%20Dev%20Space&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,24,30&height=200&section=header&text=⚡%20LEARNING%20MODE%20ACTIVE%20⚡&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Christian%20Abusca's%20Dev%20Journey&descAlignY=55&descSize=20" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=DC143C&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Data+Scientist+%7C+Problem+Solver;Building+Tomorrow's+Solutions;Debugging+the+Matrix+🔍;Turning+Coffee+Into+Code+☕;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=4169E1&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Learning+One+Line+at+a+Time+💙;Passionate+Beginner+in+Data+Science;Building+Skills+Daily+📚;Every+Expert+Was+Once+a+Beginner;Embracing+the+Learning+Curve+📈;Growing+Through+Code+🌱" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,12 +12,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
 </div>
 
-<h3 align="center">⚡ "Sometimes you gotta run before you can walk" ⚡</h3>
+<h3 align="center">💙 "The journey of a thousand commits begins with a single line" 💙</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=christianabusca&label=Mission%20Logs&color=dc143c&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/christianabusca?label=Allies&style=for-the-badge&color=blue&logo=github" alt="followers" />
-  <img src="https://img.shields.io/badge/Status-Assembling%20Code-brightgreen?style=for-the-badge" alt="status" />
+  <img src="https://komarev.com/ghpvc/?username=christianabusca&label=Learning%20Journey%20Views&color=4169e1&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/christianabusca?label=Fellow%20Learners&style=for-the-badge&color=4169e1&logo=github" alt="followers" />
+  <img src="https://img.shields.io/badge/Status-Continuously%20Learning-4169e1?style=for-the-badge" alt="status" />
 </p>
 
 ---
@@ -25,44 +25,44 @@
 ## 👨‍💻 About Me
 
 ```python
-class Developer:
+class BeginnerDeveloper:
     def __init__(self):
         self.name = "Christian Abusca"
-        self.role = "Data Enthusiast & Software Developer"
-        self.languages = ["Python", "SQL"]
-        self.current_focus = "Learning Phase"
-        self.traits = ["Analytical", "Detail-oriented", "Persistent"]
-        self.personality = "Introvert who speaks fluent code"
+        self.status = "Passionate Learner"
+        self.currently_learning = ["Python", "SQL", "Data Science"]
+        self.goal = "Become a proficient data analyst"
+        self.mindset = "Progress over perfection"
+        self.personality = "Curious introvert who loves solving puzzles"
         
     def daily_routine(self):
-        return "Solve problems, write clean code, repeat"
+        return "Learn something new, practice, make mistakes, repeat"
         
-    def current_mission(self):
-        return "6 data analytics projects in progress"
+    def learning_journey(self):
+        return "Taking it one step at a time, building foundations strong"
 ```
 
-### 🎯 What I'm Up To
-- 🔬 **Learning:** Mastering data science fundamentals and advanced techniques
-- 🎯 **Building:** Analytical Projects
-- 🌱 **Growing:** Deep diving into ML deployment, cloud architecture, and production systems
-- 🦾 **Exploring:** IoT systems, data visualization, automation, scalable applications
-- 🏆 **Goal:** Contribute to open-source, master AI/ML, create meaningful impact
-- ⚡ **Philosophy:** Quality over quantity, progress over perfection
+### 🌱 My Learning Path
+- 📚 **Currently Learning:** Python fundamentals, SQL basics, and data analysis concepts
+- 🎯 **Working On:** 6 beginner-friendly data analytics projects to build my portfolio
+- 💡 **Exploring:** Data visualization, basic statistics, and how to tell stories with data
+- 🔍 **Interested In:** Machine learning basics, web development, and automation
+- 🎓 **2025 Goal:** Complete my learning roadmap, contribute to open-source, and land my first data role
+- ⚡ **Learning Style:** Hands-on practice, making mistakes, and learning from them
 
 ---
 
-## 📊 Performance Metrics
+## 📊 Learning Progress
 
 <div align="center">
 
-### ⚡ Current Status
+### 💙 Current Skill Levels
 
 ```
-Problem Solving     ████████████████████░░   92%
-Code Quality        ████████████████████░░   90%
-Data Analysis       ███████████████████░░░   85%
-Learning Speed      ██████████████████░░░░   80%
-Persistence         ████████████████████░░   95%
+Learning Enthusiasm ████████████████████░░   95%
+Problem Solving     ████████████░░░░░░░░░   60%
+Python Basics       ███████████░░░░░░░░░░   55%
+SQL Fundamentals    ██████████░░░░░░░░░░░   50%
+Persistence         ████████████████████░░   90%
 Coke Dependency     ████████████████████░░   95%
 ```
 
@@ -72,16 +72,16 @@ Coke Dependency     ████████████████████
 <tr>
 <td align="center" width="50%">
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=christianabusca&show_icons=true&theme=radical&locale=en&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=FFD700&text_color=FFFFFF&border_radius=10)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=christianabusca&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=4169E1&icon_color=6495ED&text_color=FFFFFF&border_radius=10)
 
 </td>
 <td align="center" width="50%">
 
-### 🔥 Contribution Streak
+### 🔥 Learning Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=christianabusca&theme=radical&hide_border=true&border_radius=10&background=0D1117&ring=DC143C&fire=FFD700&currStreakLabel=FFD700&sideNums=FFFFFF&currStreakNum=DC143C&sideLabels=FFFFFF)
+![GitHub Streak](https://streak-stats.demolab.com?user=christianabusca&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=4169E1&fire=6495ED&currStreakLabel=6495ED&sideNums=FFFFFF&currStreakNum=4169E1&sideLabels=FFFFFF)
 
 </td>
 </tr>
@@ -89,31 +89,31 @@ Coke Dependency     ████████████████████
 
 <div align="center">
 
-### 💻 Language Distribution
+### 💻 Languages I'm Learning
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=christianabusca&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF&border_radius=10)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=christianabusca&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=4169E1&text_color=FFFFFF&border_radius=10)
 
 </div>
 
 ---
 
-## 📈 Activity in the Field
+## 📈 Learning Activity
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/dc143c/christianabusca" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/4169e1/christianabusca" alt="Contribution Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianabusca&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=DC143C&line=FFD700&point=FFFFFF&area=true&area_color=DC143C" width="95%" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianabusca&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4169E1&line=6495ED&point=FFFFFF&area=true&area_color=4169E1" width="95%" alt="Contribution Activity Graph"/>
 </div>
 
 ---
 
-## 🏆 Achievement Unlocked
+## 🏆 Learning Milestones
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=christianabusca&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=christianabusca&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -146,17 +146,18 @@ Coke Dependency     ████████████████████
 
 <div align="center">
   
-### 💭 Daily Loop
+### 💭 My Daily Loop
 
 ```javascript
-while (alive) {
-    eat();
-    sleep();
-    code();
+while (learning) {
+    study();
+    practice();
+    makeMistakes();
     learn();
+    drinkCoke();
     repeat();
 }
-// "Not all those who wander are lost... some are just debugging"
+// "Every master was once a beginner who kept going"
 ```
 
 </div>
@@ -167,12 +168,14 @@ while (alive) {
   
 *"It's not who I am underneath, but what I do that defines me."*
 
+**💙 Small progress is still progress 💙**
+
 <br>
 
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=%23DC143C&aColor=%23FFD700" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%234169E1&aColor=%236495ED" alt="Jokes Card" />
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,24,30&height=120&section=footer" />
 </div>
