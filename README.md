@@ -46,7 +46,7 @@ class BeginnerDeveloper:
 - 🎯 **Working On:** 6 beginner-friendly data analytics projects to build my portfolio
 - 💡 **Exploring:** Data visualization, basic statistics, and how to tell stories with data
 - 🔍 **Interested In:** Machine learning basics, web development, and automation
-- 🎓 **2025 Goal:** Complete my learning roadmap, contribute to open-source, and land my first data role
+- 🎓 **2026 Goal:** Make huge progress to my learning roadmap, contribute to open-source, and land my first data role
 - ⚡ **Learning Style:** Hands-on practice, making mistakes, and learning from them
 
 ---
