@@ -46,7 +46,7 @@ class BeginnerDeveloper:
 - 🎯 **Working On:** 6 beginner-friendly data analytics projects to build my portfolio
 - 💡 **Exploring:** Data visualization, basic statistics, and how to tell stories with data
 - 🔍 **Interested In:** Machine learning basics, web development, and automation
-- 🎓 **2026 Goal:** Make huge progress to my learning roadmap, contribute to open-source, and land my first data role
+- 🎓 **2025 Goal:** Complete my learning roadmap, contribute to open-source, and land my first data role
 - ⚡ **Learning Style:** Hands-on practice, making mistakes, and learning from them
 
 ---
@@ -105,6 +105,42 @@ Coke Dependency     ████████████████████
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianabusca&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4169E1&line=6495ED&point=FFFFFF&area=true&area_color=4169E1" width="95%" alt="Contribution Activity Graph"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/christianabusca/christianabusca/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/christianabusca/christianabusca/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/christianabusca/christianabusca/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 🎨 Creative Visualizations
+
+<div align="center">
+
+### 📅 Isometric Contributions
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=christianabusca&theme=tokyonight&hide_border=true&background=0D1117&ring=4169E1&fire=6495ED&currStreakLabel=6495ED" width="48%" alt="Streak Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christianabusca&theme=tokyonight" width="95%" alt="Profile Summary"/>
+
+### 📊 Detailed Stats Cards
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=christianabusca&theme=tokyonight" width="31%" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=christianabusca&theme=tokyonight" width="31%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=christianabusca&theme=tokyonight" width="31%" alt="Productive Time"/>
+
+### 🎯 Coding Activity
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=christianabusca&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=4169E1&text_color=FFFFFF&hide_border=true" width="48%" alt="WakaTime Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=christianabusca&repo=christianabusca&theme=tokyonight&bg_color=0D1117&title_color=4169E1&text_color=FFFFFF&hide_border=true" width="48%" alt="Pinned Repo"/>
+
 </div>
 
 ---
