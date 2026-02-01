@@ -108,13 +108,3 @@ while (learning) {
 *"It's not who I am underneath, but what I do that defines me."*
 
 **💙 Small progress is still progress 💙**
-
-<br>
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%234169E1&aColor=%236495ED" alt="Jokes Card" />
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,24,30&height=120&section=footer" />
-</div>
