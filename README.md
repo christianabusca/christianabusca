@@ -37,11 +37,7 @@ Coke Dependency     ████████████████████
 
 ## 👾 Contribution Invaders
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/christianabusca/christianabusca/output/ocean.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/christianabusca/christianabusca/output/ocean.svg">
-    <img alt="github contribution grid space invaders animation" src="https://raw.githubusercontent.com/christianabusca/christianabusca/output/ocean.svg">
-  </picture>
+  <img alt="github contribution space shooter game" src="space-shooter.gif">
 </div>
 
 ---
