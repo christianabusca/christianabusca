@@ -1,10 +1,7 @@
-
 ## 📊 Learning Progress
-
 <div align="center">
 
 ### 💙 Current Skill Levels
-
 ```
 Learning Enthusiasm ████████████████████░░   95%
 Problem Solving     ████████████░░░░░░░░░   60%
@@ -13,7 +10,6 @@ SQL Fundamentals    ██████████░░░░░░░░░░
 Persistence         ████████████████████░░   90%
 Coke Dependency     ████████████████████░░   95%
 ```
-
 </div>
 
 <table align="center">
@@ -21,16 +17,12 @@ Coke Dependency     ████████████████████
 <td align="center" width="50%">
 
 ### 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=christianabusca&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=4169E1&icon_color=6495ED&text_color=FFFFFF&border_radius=10)
-
 </td>
 <td align="center" width="50%">
 
 ### 🔥 Learning Streak
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=christianabusca&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=4169E1&fire=6495ED&currStreakLabel=6495ED&sideNums=FFFFFF&currStreakNum=4169E1&sideLabels=FFFFFF)
-
 </td>
 </tr>
 </table>
@@ -38,32 +30,26 @@ Coke Dependency     ████████████████████
 <div align="center">
 
 ### 💻 Languages I'm Learning
-
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=christianabusca&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=4169E1&text_color=FFFFFF&border_radius=10)
-
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
+## 👾 Contribution Invaders
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/christianabusca/christianabusca/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/christianabusca/christianabusca/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/christianabusca/christianabusca/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/christianabusca/christianabusca/output/ocean.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/christianabusca/christianabusca/output/ocean.svg">
+    <img alt="github contribution grid space invaders animation" src="https://raw.githubusercontent.com/christianabusca/christianabusca/output/ocean.svg">
   </picture>
 </div>
 
 ---
 
-
 ## 🤝 Let's Connect
-
 <div align="center">
 
 **Always open to interesting conversations, collaboration, and new challenges!**
-
 <br>
 
 <a href="mailto:christianabusca22@gmail.com">
@@ -78,7 +64,6 @@ Coke Dependency     ████████████████████
 <a href="https://fb.com/christianabusca22">
   <img src="https://img.shields.io/badge/🌐_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
-
 </div>
 
 ---
@@ -86,7 +71,6 @@ Coke Dependency     ████████████████████
 <div align="center">
   
 ### 💭 My Daily Loop
-
 ```javascript
 while (learning) {
     study();
@@ -98,7 +82,6 @@ while (learning) {
 }
 // "Every master was once a beginner who kept going"
 ```
-
 </div>
 
 ---
@@ -108,3 +91,5 @@ while (learning) {
 *"It's not who I am underneath, but what I do that defines me."*
 
 **💙 Small progress is still progress 💙**
+
+</div>
